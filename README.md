@@ -1,2 +1,6 @@
 # Crowdfunding_ETL
-This is the repository for the Project 2 Crowdfunding ETL.
+
+
+## Database ERD
+
+![ERD for Database](crowdfunding_db_erd.png)
